@@ -1,6 +1,6 @@
-## Navigation
+## Framework
 
-Generate HTML + PHP &lt;li&gt; for navigations.
+My application template.
 
 ### dev/Dependencies
 

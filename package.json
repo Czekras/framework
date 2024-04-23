@@ -1,8 +1,8 @@
 {
   "name": "framework",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "private": true,
-  "homepage": "https://czekras.github.io/navigation",
+  "homepage": "",
   "dependencies": {
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^15.0.2",
